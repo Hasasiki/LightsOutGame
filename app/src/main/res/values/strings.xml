@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RUA!</string>
+    <string name="title">Make the button match!</string>
+    <string name="move_times_textview">You have taken %d turns</string>
+    <string name="number">%d</string>
+    <string name="count">Your Score:</string>
+</resources>

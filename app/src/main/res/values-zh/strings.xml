@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="detail">当数字全为0或全为1时胜利</string>
+</resources>
